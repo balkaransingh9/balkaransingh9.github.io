@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ਸਿੱਖ articles are just so long they deserve a really long title to see if things will break well"
+title: "The Origins of Sikh Martial Spirit"
 categories: misc
 ---
 
